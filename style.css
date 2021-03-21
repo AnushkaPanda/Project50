@@ -1,0 +1,25 @@
+   *{
+    color:teal;
+    border: solid
+   }
+   li{
+       color:deeppink;
+       border:solid
+   }
+   i{
+       color:indigo;
+       border:solid;
+   }
+   a{
+       color:red;
+       border:dashed
+   }
+   p{
+       color:blue;
+       border:solid
+   }
+   .origami{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   }
